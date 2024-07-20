@@ -1,7 +1,7 @@
 <h1 align="center">hola 👋, Soy Luis Cesar Muñoz Cervantes</h1>
 <h3 align="center">Developer Full Stack</h3>
 
-- 🔭Actualmente termine la pagina [eccellenza](https://eccellenza.online/)
+- 🔭Actualmente trabajo en el desarrollo de la pagina y app [OmegaMCApp](https://omegamc.vercel.app)
 
 - 🌱 Actualmente estoy mejorando y aprendiendo **React Native, TypeScript y AWS**
 
